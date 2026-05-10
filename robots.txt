@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://noor-prayer-web-site-pv.vercel.app/sitemap.xml
